@@ -45,6 +45,7 @@ function App() {
     </div>
     <div className="m-4 p-4 flex justify-center gap-4">
       <a href=""><img src={slack} alt="slack"></img></a>
+      
       <a href=""><img src={git} alt="slack"></img></a>
     </div>
     <footer className=" w-11/12 mx-auto mt-6">
