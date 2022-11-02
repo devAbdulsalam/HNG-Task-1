@@ -23,7 +23,7 @@ function App() {
        <div id="socialsBtns" className="mt-10">
           <Button link={"https://twitter.com/MMAbdulsalam001"} name="Twitter"id="twitter" />
           <div className="hidden">
-            <Button link={"https://slack.com/"} name="Slack" id="slack" />
+            <Button link={"https://slack.com/devAbdulsalam.js"} name="Slack" id="slack" />
           </div>
        
         <Button link={"https://training.zuri.team"} name="Zuri Team" id={"btn__zuri"} className="w-full"/>
